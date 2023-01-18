@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'JCSamplePods'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'JCSamplePods for test'
 
 # This description is used to generate tags and improve search results.
@@ -25,5 +25,6 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/JCLEE-ADX/JCSamplePod.git', :tag => s.version.to_s }
   s.ios.deployment_target = '9.0'
   s.source_files = 'JCSamplePods/Classes/**/*'
+  s.vendored_frameworks = "AdPieSDK/AdPieSDK.xcframework"
 
 end
