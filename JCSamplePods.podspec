@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'JCSamplePods'
-  s.version          = '0.3.1'
+  s.version          = '1.6.0'
   s.summary          = 'JCSamplePods for test'
 
 # This description is used to generate tags and improve search results.
@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'jclee@adxcorp.kr' => 'jclee@adxcorp.k' }
   #s.source           = { :git => 'https://github.com/JCLEE-ADX/JCSamplePod.git', :tag => s.version.to_s }
-  s.source       = { :http => "https://github.com/gomfactory/AdPie-iOS-SDK/archive/refs/tags/1.6.0.tar.gz"}
+  s.source       = { :http => "https://github.com/gomfactory/AdPie-iOS-SDK/archive/refs/tags/#{s.version}.tar.gz"}
   s.ios.vendored_frameworks = "AdPieSDK/AdPieSDK.xcframework"
 
   s.xcconfig         = { "LIBRARY_SEARCH_PATHS" => "$(SRCROOT)/Pods/AdPieSDK" }
