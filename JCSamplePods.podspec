@@ -24,9 +24,12 @@ Pod::Spec.new do |s|
   s.author           = { 'jclee@adxcorp.kr' => 'jclee@adxcorp.k' }
   #s.source           = { :git => 'https://github.com/JCLEE-ADX/JCSamplePod.git', :tag => s.version.to_s }
   #s.source       = { :http => "https://github.com/gomfactory/AdPie-iOS-SDK/archive/refs/tags/#{s.version}.tar.gz"}
-  s.source = { :http => "https://github.com/adxcorp/talkplus-ios-release/archive/refs/tags/#{s.version}.tar.gz"}
-  s.ios.vendored_frameworks = "AdPieSDK/AdPieSDK.xcframework"
   #s.xcconfig         = { "LIBRARY_SEARCH_PATHS" => "$(SRCROOT)/Pods/AdPieSDK" }
+  #s.ios.vendored_frameworks = "AdPieSDK/AdPieSDK.xcframework"
+  s.source = { :http => "https://github.com/adxcorp/talkplus-ios-release/archive/refs/tags/#{s.version}.tar.gz"}
+  s.ios.vendored_framework = 'ios/TalkPlus.xcframework'
+  
+  
   s.ios.deployment_target = '12.0'
   #s.source_files = 'JCSamplePods/Classes/**/*'
 
