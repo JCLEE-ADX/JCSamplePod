@@ -12,11 +12,3 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod 'JCSamplePods'
 ```
-
-## Author
-
-jclee@adcxcorp.kr, jclee@adcxcorp.kr
-
-## License
-
-JCSamplePods is available under the MIT license. See the LICENSE file for more info.
