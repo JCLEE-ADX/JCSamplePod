@@ -1,9 +1,10 @@
 
-# talkplus-webrtc-ios (삭제예정)
+# talkplus-webrtc-ios [삭제예정]
 
 ![Platform](https://img.shields.io/badge/platform-iOS-orange.svg)
 ![Languages](https://img.shields.io/badge/language-Swift-orange.svg)
 ![Languages](https://img.shields.io/badge/language-objc-orange.svg)
+[![CocoaPods](https://img.shields.io/badge/CocoaPods-compatible-green.svg)](https://cocoapods.org/pods/SendBirdUIKit)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/sendbird/quickstart-calls-ios/blob/develop/LICENSE.md)
 
 ## talkplus-webrtc-ios SDK 소개
@@ -114,7 +115,7 @@ $ pod install --repo-update
 ```
 > 앱 시작 후, [PKPushRegistry](https://developer.apple.com/documentation/pushkit/pkpushregistry) 객체 생성을 통하여 [pushRegistry(_:didUpdate:for:)](https://developer.apple.com/documentation/pushkit/pkpushregistrydelegate/pushregistry(_:didupdate:for:)) 메소드가 호출되면, 위의 메소드를 호출하여 푸시용 토큰을 서버로 전달하십시오.
 
-그리고 [Apple 개발자 사이트](https://developer.apple.com)에서 VoIP 전용 인증서를 생성하여, `TalkPus`서버에 등록이 필요합니다. 이 인증서는 VoIP Push Notification를 전송하기 위한 목적으로 사용됩니다. VoIP 전용 인증서를 기술문의를 통하여 등록하여 주십시오.
+그리고 [Apple 개발자 사이트](https://developer.apple.com)에서 VoIP 전용 인증서를 생성하여, `TalkPus`서버에 등록이 필요합니다. 이 인증서는 VoIP Push Notification를 전송하기 위한 목적으로 사용됩니다. `기술문의`를 통하여 VoIP 전용 인증서(APNs certificate)를 등록하여 주십시오.
 
 ### VoIP 전용 인증서 생성 방법
 1) 애플 개발자 사이트 로그인
@@ -209,4 +210,3 @@ Neptune Company, support@talkplus.io
 ## 라이선스
 
 talkplus-webrtc-ios SDK는 MIT 라이선스에 따라 사용할 수 있습니다. 자세한 내용은 LICENSE 파일을 참조해주십시오.
-
