@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'JCSamplePods'
-  s.version          = '0.5.6'
+  s.version          = '0.5.7'
   s.summary          = 'JCSamplePods for test'
 
 # This description is used to generate tags and improve search results.
@@ -22,15 +22,9 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/JCLEE-ADX/JCSamplePod'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'jclee@adxcorp.kr' => 'jclee@adxcorp.k' }
-  #s.source           = { :git => 'https://github.com/JCLEE-ADX/JCSamplePod.git', :tag => s.version.to_s }
-  #s.source       = { :http => "https://github.com/gomfactory/AdPie-iOS-SDK/archive/refs/tags/#{s.version}.tar.gz"}
-  #s.xcconfig         = { "LIBRARY_SEARCH_PATHS" => "$(SRCROOT)/Pods/AdPieSDK" }
-  #s.ios.vendored_frameworks = "AdPieSDK/AdPieSDK.xcframework"
-  s.source = { :http => "https://github.com/adxcorp/talkplus-ios-release/archive/refs/tags/#{s.version}.tar.gz"}
-  s.ios.vendored_framework = 'ios/TalkPlus.xcframework'
-  
-  
-  s.ios.deployment_target = '12.0'
-  #s.source_files = 'JCSamplePods/Classes/**/*'
+  s.source           = { :git => 'https://github.com/JCLEE-ADX/JCSamplePod.git', :tag => s.version.to_s }
+  s.ios.vendored_framework = 'ios/KlatUIKit.xcframework'
+  s.ios.deployment_target = '13.0'
+  s.dependency 'talkplus-ios', '>= 1.0.0'
 
 end
