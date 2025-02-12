@@ -90,7 +90,7 @@
 		</data>
 		<key>Modules/KlatUIKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		Js2SboGjcf6DL9GH7Wr3HxFCRww=
+		EeuSY9+d0cdy88Hb1JSLkjewccg=
 		</data>
 		<key>Modules/KlatUIKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>Modules/KlatUIKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		1VDP7rEEHl4ADaD3F/Wk/zD4CD4=
+		OShb6CiEMUax5dGmp+4evltWd50=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -263,7 +263,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			e+K4QScXZznXRTxpRv+O6KVQXWt2Mgwe2OU8x4mhX30=
+			znl4cNRzJa4XnqXn7oobaaNsqLyhcGjvY7xiH9JIq20=
 			</data>
 		</dict>
 		<key>Modules/KlatUIKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -291,7 +291,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bX4IeDNq9bWBDJ8r3kJC8BLb5Xod9IxWW3sH8s7hWlE=
+			LljIpgbJ1AUd0S5ULRMTJucRMmHu7YFTEK3b5PyyPvg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
