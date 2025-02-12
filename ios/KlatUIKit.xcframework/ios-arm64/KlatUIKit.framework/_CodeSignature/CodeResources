@@ -8,6 +8,22 @@
 		<data>
 		oMLZxwwrlPWVdAsg0mKEb2FJ7RM=
 		</data>
+		<key>Frameworks/TalkPlus.framework/Info.plist</key>
+		<data>
+		vIWMzYkmaM4KOB5Y5kO+K0Ojv68=
+		</data>
+		<key>Frameworks/TalkPlus.framework/PrivacyInfo.xcprivacy</key>
+		<data>
+		yxFT1lHRJDbSfVkST7qVwlScjqE=
+		</data>
+		<key>Frameworks/TalkPlus.framework/TalkPlus</key>
+		<data>
+		L5J+7xuthHlTXiTLZSdKVdj71xM=
+		</data>
+		<key>Frameworks/TalkPlus.framework/_CodeSignature/CodeResources</key>
+		<data>
+		UGp/WvWKqohNNId7bHz2c1hoKvw=
+		</data>
 		<key>Headers/KlatUIKit-Swift.h</key>
 		<data>
 		xJeEMGE1lXmdBpuE8Qncpw6Fu24=
@@ -124,6 +140,34 @@
 			<key>hash2</key>
 			<data>
 			Rx2git14TCLkMsxRy1JLDe6HQOFhkbmExXBvdjFG5Ws=
+			</data>
+		</dict>
+		<key>Frameworks/TalkPlus.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WnAfOQRTdm4fLjU3wbqy/f8tqTBi8N2Hdd0Aq1+UYz8=
+			</data>
+		</dict>
+		<key>Frameworks/TalkPlus.framework/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			x/K4auZJeew7z5i+l44JEZluEemsae8znf16bpjthA0=
+			</data>
+		</dict>
+		<key>Frameworks/TalkPlus.framework/TalkPlus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mCuR+f3SjWBmSlPng3QKI7TptMVysJjjSjPSwsdvSs0=
+			</data>
+		</dict>
+		<key>Frameworks/TalkPlus.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			R4pLPBCG0mb08B4xpEWonP3eZXzGpv7EgDOKI9eqHU8=
 			</data>
 		</dict>
 		<key>Headers/KlatUIKit-Swift.h</key>
