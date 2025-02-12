@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		+cIneE4QL38jM+pXsJ6vG1Qdmwg=
+		oMLZxwwrlPWVdAsg0mKEb2FJ7RM=
 		</data>
 		<key>Headers/KlatUIKit-Swift.h</key>
 		<data>
-		eetqFnuBi/6AbWUq/4Bq7hXowCc=
+		mRcPWd0wNDkO51KOkkkDbt8+3xk=
 		</data>
 		<key>Headers/KlatUIKit.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		fe7BsUJqiThXVhKaxZnlrKY+LVU=
+		iq9ppiXrNExr16ZljfPwejrdaEM=
 		</data>
 		<key>KlatChannelActionViewController.nib</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>KlatChatMessageViewController.nib</key>
 		<data>
-		lR61GVr2UD5SMuLXks6+Z5epiSs=
+		tvIcfTieKKPQNdgxnQYu5OBUnO0=
 		</data>
 		<key>KlatCreateChannelViewController.nib</key>
 		<data>
-		w77cd+bJWzt62ZwJ8DIyylBEgDo=
+		AmOh50ByvtWVNDfB55TJeY5+7J0=
 		</data>
 		<key>KlatEditChannelViewController.nib</key>
 		<data>
-		l9kkaDoKXvnLrcG8K9Bbe5Gdqpg=
+		mQKZZX3cETgGkww2fIMKolBKDaQ=
 		</data>
 		<key>KlatErrorViewController.nib</key>
 		<data>
-		xWgGzBvBxcu/4ZKvI7yCCv4b5Lo=
+		C5u3aR5dN9euQfuESB886K/4Zk4=
 		</data>
 		<key>KlatImageViewerViewController.nib</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>KlatMemberInfoViewController.nib</key>
 		<data>
-		M/Ne5vFGCo9koEEQWkJRjQUwQY8=
+		D9hkj/60B2/0PETiPWbsBSDQrtk=
 		</data>
 		<key>KlatMemberListTableViewCell.nib</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>KlatMessageActionViewController.nib</key>
 		<data>
-		dNouJTTwCaSKAXQPUaXZ75/a9Hk=
+		AZndxe08XfrOSKyMRrwrdSrkVPg=
 		</data>
 		<key>KlatMyChatMessageCell.nib</key>
 		<data>
@@ -90,43 +90,43 @@
 		</data>
 		<key>Modules/KlatUIKit.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		FsSUcbAt3mCgGW6UrxkgExjVe6w=
+		3vgGWj/GJHN1olkPNVfHnEBcy5M=
 		</data>
 		<key>Modules/KlatUIKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		5y05Qq4phhLBofkMz1cypgF1Q8g=
+		oIEFGkl0phgiI9gmwFqpTVRm9VA=
 		</data>
 		<key>Modules/KlatUIKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		VWt3fV0h2BbWn5D4V250NkZRTAo=
+		wGC+ggu3+0+0A0jQnskA+i1AIgY=
 		</data>
 		<key>Modules/KlatUIKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		5y05Qq4phhLBofkMz1cypgF1Q8g=
+		oIEFGkl0phgiI9gmwFqpTVRm9VA=
 		</data>
 		<key>Modules/KlatUIKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		vvGj8/JbKVbzDIevn+mcIUqtjPA=
+		Jo8dlo1mjz1w4d0FU3+oISAdeWY=
 		</data>
 		<key>Modules/KlatUIKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		FsSUcbAt3mCgGW6UrxkgExjVe6w=
+		3vgGWj/GJHN1olkPNVfHnEBcy5M=
 		</data>
 		<key>Modules/KlatUIKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		cH5vS3TRubEhSEmcG0aRcj9I3So=
+		L7c2+aitLy5yk2cVbott30ZbUi8=
 		</data>
 		<key>Modules/KlatUIKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		/LtOenNuAsmS6rZ7es3PJE+rnQE=
+		j1/0ineULjimEGxCCnCWEf5lT/Q=
 		</data>
 		<key>Modules/KlatUIKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		cH5vS3TRubEhSEmcG0aRcj9I3So=
+		L7c2+aitLy5yk2cVbott30ZbUi8=
 		</data>
 		<key>Modules/KlatUIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		xAddbyH6h/qsuvkdSO7+EI6AU9c=
+		ACmPynOBU1q2wKsPt+gKoiuRk7I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -143,14 +143,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xpsx+dJZV62PWtP4hTfxUnzgPz6O1FpTdvL7nzif/1E=
+			Rx2git14TCLkMsxRy1JLDe6HQOFhkbmExXBvdjFG5Ws=
 			</data>
 		</dict>
 		<key>Headers/KlatUIKit-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			N5VHZV5WwGZxUdalsXkv6AjFf/YAmhVqmNbk4SIUpDw=
+			4onNDGVEiQjkNb4UblKBzL3sehTM5YE5iQq/2m051Wc=
 			</data>
 		</dict>
 		<key>Headers/KlatUIKit.h</key>
@@ -185,28 +185,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ofo/Ha33MRErgIUAXTEqqMzhDPHA8tY1UyIyosY8isk=
+			mpjKI+XLmh0YAR+fPmmRqJzP7xuH6kx4X+huqlhFkLY=
 			</data>
 		</dict>
 		<key>KlatCreateChannelViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IE04oHPq6EOahFtuLFdxy+p4ew9gFOQj2hFJfsewUvw=
+			ZaEA+2zTDALvcBi7QNJKjLDs7lquMCaSsNOPn0I+noI=
 			</data>
 		</dict>
 		<key>KlatEditChannelViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OgFNGx6B6vX+gdsxQyGfhTm4BxJtV7x2CXObyY9FQuM=
+			nxIFgYqSU/gx+w1TisHrXEmZ32DR5xV31FD0fwidQxQ=
 			</data>
 		</dict>
 		<key>KlatErrorViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kdecCqTVABQusZKl6sKYUXG94ayXDqHD6/rxTWYAwhM=
+			iv1Gmu7LYb7eBQT7bi1GSDMMYjUWiK0w1gPGOvjI22U=
 			</data>
 		</dict>
 		<key>KlatImageViewerViewController.nib</key>
@@ -220,7 +220,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wdY5E08luoabgbPXns9E4BcNRlqcDfYxu68dLEflSmI=
+			R353pEPPvWttB0mndYpPJikWBzt/I7kGawsqdLN0LBY=
 			</data>
 		</dict>
 		<key>KlatMemberListTableViewCell.nib</key>
@@ -241,7 +241,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BmSXfnHqZAnI9ySpZTZNFzdT6dcr6vQNoI6c3GY6Ahc=
+			X/W7XQKCvmPAEWvq0Wxz0Oe0ad9QW+U0yIWc+z5IGKI=
 			</data>
 		</dict>
 		<key>KlatMyChatMessageCell.nib</key>
@@ -283,70 +283,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/8zLT4o2Lf9AUySTLroCA3PvsOsBE4Hb76XVwZypqas=
+			c8iCOcs6peCqUG2qGrvhL5wahjgRDUw5m3+6ZYpIfKc=
 			</data>
 		</dict>
 		<key>Modules/KlatUIKit.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZjFJcDeCKw9ULapsED38bLngpmfay14hkxOi8/zRzbE=
+			NqI7uha0gHj0/pzRQEXduL73qZFmkXIovrmFowx8xXQ=
 			</data>
 		</dict>
 		<key>Modules/KlatUIKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			56IEGfPNTYxN1n1lTX/E12BNHTdSqiEGf2Vx3UaFR7Q=
+			n7MZpy37XPQKWEIddWRkFNz2FAbyE3IkL5B+0IcjeJY=
 			</data>
 		</dict>
 		<key>Modules/KlatUIKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZjFJcDeCKw9ULapsED38bLngpmfay14hkxOi8/zRzbE=
+			NqI7uha0gHj0/pzRQEXduL73qZFmkXIovrmFowx8xXQ=
 			</data>
 		</dict>
 		<key>Modules/KlatUIKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PqJoZ4C9pTejmEOGVgwy6tGkaI9VS86eipR5fjUutHA=
+			lhhn7GAiJ62W5Kw5OqGgeYQ9qaO7Qx/9ISkI7pKHLds=
 			</data>
 		</dict>
 		<key>Modules/KlatUIKit.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/8zLT4o2Lf9AUySTLroCA3PvsOsBE4Hb76XVwZypqas=
+			c8iCOcs6peCqUG2qGrvhL5wahjgRDUw5m3+6ZYpIfKc=
 			</data>
 		</dict>
 		<key>Modules/KlatUIKit.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8LJPE31e0S1CA2YlAStXd6VsVZG6rhuT9mCSVQIlYWM=
+			T5qTJtN1SWTQwciPp48lTtLua1QDdkLbSYuquaZGlsc=
 			</data>
 		</dict>
 		<key>Modules/KlatUIKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pFG1LMJx6UbRkuLciXfck2MxCh6NhO3ztDs6FWHKvXY=
+			ayrYZgsmHd8ppENHsRqPoiwFnJBnDar3hL58943Z5Ds=
 			</data>
 		</dict>
 		<key>Modules/KlatUIKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8LJPE31e0S1CA2YlAStXd6VsVZG6rhuT9mCSVQIlYWM=
+			T5qTJtN1SWTQwciPp48lTtLua1QDdkLbSYuquaZGlsc=
 			</data>
 		</dict>
 		<key>Modules/KlatUIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v58P4F1QZa45POcoxZ38kHQO45LUVA6obQ5f3Jfn3wg=
+			QgPHzdTr0P6780Lra7RZ29iFFwxhWddt7Dy85bRTlzY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "KlatUIKit",
+    "printedName": "KlatUIKit",
     "children": [
       {
         "kind": "Import",
@@ -71,6 +71,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override",
               "AccessControl"
@@ -103,6 +104,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override",
               "AccessControl"
@@ -159,6 +161,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override"
             ],
@@ -200,6 +203,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Required"
             ],
@@ -237,6 +241,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -275,6 +280,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -321,6 +327,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -358,6 +365,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -396,6 +404,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -408,6 +417,7 @@
         "mangledName": "$s9KlatUIKit0A25ChannelListViewControllerC",
         "moduleName": "KlatUIKit",
         "declAttributes": [
+          "Preconcurrency",
           "Custom",
           "AccessControl",
           "ObjC"
@@ -421,6 +431,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -524,6 +548,22 @@
         "inheritsConvenienceInitializers": true,
         "superclassNames": [
           "KlatUIKit.KlatBaseViewModel"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -641,6 +681,22 @@
         "inheritsConvenienceInitializers": true,
         "superclassNames": [
           "KlatUIKit.KlatBaseViewModel"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -687,6 +743,22 @@
         "hasMissingDesignatedInitializers": true,
         "superclassNames": [
           "KlatUIKit.KlatBaseViewModel"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -733,6 +805,22 @@
         "hasMissingDesignatedInitializers": true,
         "superclassNames": [
           "KlatUIKit.KlatBaseViewModel"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -803,7 +891,23 @@
           "Final",
           "AccessControl"
         ],
-        "hasMissingDesignatedInitializers": true
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
       },
       {
         "kind": "Import",
@@ -849,8 +953,9 @@
             "moduleName": "KlatUIKit",
             "declAttributes": [
               "HasInitialValue",
-              "HasStorage",
+              "Preconcurrency",
               "Custom",
+              "HasStorage",
               "AccessControl",
               "ObjC"
             ],
@@ -959,6 +1064,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override",
               "AccessControl"
@@ -991,6 +1097,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override",
               "AccessControl"
@@ -1047,6 +1154,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override"
             ],
@@ -1088,6 +1196,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Required"
             ],
@@ -1125,6 +1234,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -1163,6 +1273,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -1201,6 +1312,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -1238,6 +1350,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -1269,6 +1382,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -1300,6 +1414,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -1331,6 +1446,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -1362,6 +1478,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -1413,6 +1530,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl",
               "Override"
@@ -1426,6 +1544,7 @@
         "mangledName": "$s9KlatUIKit0A25ChatMessageViewControllerC",
         "moduleName": "KlatUIKit",
         "declAttributes": [
+          "Preconcurrency",
           "Custom",
           "AccessControl",
           "ObjCMembers",
@@ -1440,6 +1559,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -1564,6 +1697,22 @@
         "inheritsConvenienceInitializers": true,
         "superclassNames": [
           "KlatUIKit.KlatBaseViewModel"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -1634,6 +1783,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override",
               "AccessControl"
@@ -1690,6 +1840,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override"
             ],
@@ -1731,6 +1882,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Required"
             ],
@@ -1761,6 +1913,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -1811,6 +1964,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -1843,6 +1997,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -1856,6 +2011,7 @@
         "moduleName": "KlatUIKit",
         "isOpen": true,
         "declAttributes": [
+          "Preconcurrency",
           "Custom",
           "AccessControl",
           "ObjC"
@@ -1868,6 +2024,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -4580,6 +4750,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -4686,7 +4870,23 @@
         "declAttributes": [
           "AccessControl"
         ],
-        "hasMissingDesignatedInitializers": true
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
       },
       {
         "kind": "Import",
@@ -4830,6 +5030,22 @@
         "hasMissingDesignatedInitializers": true,
         "superclassNames": [
           "KlatUIKit.KlatBaseViewModel"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -5614,13 +5830,6 @@
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/ViewControllers\/MemberInfoViewController\/KlatMemberInfoViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 47,
-      "length": 23,
-      "value": "\"KlatUIKit.KlatMemberInfoViewModel\""
-    },
-    {
       "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/ViewControllers\/SearchChannelViewController\/KlatSearchChannelViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 240,
@@ -5689,13 +5898,6 @@
       "offset": 437,
       "length": 2,
       "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/ViewControllers\/ChatMessageViewController\/KlatChatMessageViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 47,
-      "length": 24,
-      "value": "\"KlatUIKit.KlatChatMessageViewModel\""
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/ViewControllers\/ChatMessageViewController\/KlatChatMessageViewController.swift",
@@ -5874,20 +6076,6 @@
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/ViewControllers\/CreateChannelViewController\/KlatCreateChannelViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 351,
-      "length": 16,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/ViewControllers\/CreateChannelViewController\/KlatCreateChannelViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 351,
-      "length": 16,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/ViewControllers\/CreateChannelViewController\/KlatCreateChannelViewController.swift",
       "kind": "StringLiteral",
       "offset": 490,
       "length": 18,
@@ -5964,13 +6152,6 @@
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/ViewControllers\/RestrictedListViewController\/KlatRestrictedListViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 42,
-      "length": 27,
-      "value": "\"KlatUIKit.KlatRestrictedListViewModel\""
-    },
-    {
       "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/ViewControllers\/KlatBaseViewModel.swift",
       "kind": "StringLiteral",
       "offset": 88,
@@ -6039,13 +6220,6 @@
       "offset": 3790,
       "length": 3,
       "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/ViewControllers\/EditChannelViewController\/KlatEditChannelViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 42,
-      "length": 24,
-      "value": "\"KlatUIKit.KlatEditChannelViewModel\""
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/ViewControllers\/ChatMessageViewController\/TableViewCell\/KlatYourChatMessageCell.swift",
@@ -6123,6 +6297,62 @@
       "offset": 1123,
       "length": 3,
       "value": "0.9"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/Extensions\/UITableViewCell+Extension.swift",
+      "kind": "Array",
+      "offset": 205,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/Extensions\/UITableViewCell+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 225,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/Extensions\/UITableViewCell+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 244,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/Extensions\/UITableViewCell+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 247,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/Extensions\/UITableViewCell+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 454,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/Extensions\/UITableViewCell+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 587,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/Extensions\/UITableViewCell+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 998,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/Extensions\/UITableViewCell+Extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1052,
+      "length": 1,
+      "value": "1"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/ViewControllers\/RestrictedListViewController\/TableViewCell\/KlatRestrictedListTableViewCell.swift",
@@ -6242,13 +6472,6 @@
       "offset": 166,
       "length": 2,
       "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/ViewControllers\/MemberListViewController\/KlatMemberListViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 47,
-      "length": 23,
-      "value": "\"KlatUIKit.KlatMemberListViewModel\""
     },
     {
       "filePath": "\/Users\/jaechunlee\/Library\/Developer\/Xcode\/DerivedData\/KlatUIKit-alhuwduvmgkgnnflqdegmhlrfqrm\/Build\/Intermediates.noindex\/ArchiveIntermediates\/KlatUIKit\/IntermediateBuildFilesPath\/KlatUIKit.build\/Release-iphonesimulator\/KlatUIKit.build\/DerivedSources\/GeneratedAssetSymbols.swift",

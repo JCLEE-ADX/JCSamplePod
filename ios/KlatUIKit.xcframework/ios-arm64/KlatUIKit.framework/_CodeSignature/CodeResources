@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		+cIneE4QL38jM+pXsJ6vG1Qdmwg=
+		oMLZxwwrlPWVdAsg0mKEb2FJ7RM=
 		</data>
 		<key>Headers/KlatUIKit-Swift.h</key>
 		<data>
-		3fjl+XQJJPhZk0C/YZPwRMENMo8=
+		xJeEMGE1lXmdBpuE8Qncpw6Fu24=
 		</data>
 		<key>Headers/KlatUIKit.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		k7ZP0Zqs9YfvMWGFO9wisZuRQa0=
+		V+8TB1Fezz9obg8FYYhEJciJFhk=
 		</data>
 		<key>KlatChannelActionViewController.nib</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>KlatChatMessageViewController.nib</key>
 		<data>
-		lR61GVr2UD5SMuLXks6+Z5epiSs=
+		tvIcfTieKKPQNdgxnQYu5OBUnO0=
 		</data>
 		<key>KlatCreateChannelViewController.nib</key>
 		<data>
-		w77cd+bJWzt62ZwJ8DIyylBEgDo=
+		AmOh50ByvtWVNDfB55TJeY5+7J0=
 		</data>
 		<key>KlatEditChannelViewController.nib</key>
 		<data>
-		l9kkaDoKXvnLrcG8K9Bbe5Gdqpg=
+		mQKZZX3cETgGkww2fIMKolBKDaQ=
 		</data>
 		<key>KlatErrorViewController.nib</key>
 		<data>
-		xWgGzBvBxcu/4ZKvI7yCCv4b5Lo=
+		C5u3aR5dN9euQfuESB886K/4Zk4=
 		</data>
 		<key>KlatImageViewerViewController.nib</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>KlatMemberInfoViewController.nib</key>
 		<data>
-		M/Ne5vFGCo9koEEQWkJRjQUwQY8=
+		D9hkj/60B2/0PETiPWbsBSDQrtk=
 		</data>
 		<key>KlatMemberListTableViewCell.nib</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>KlatMessageActionViewController.nib</key>
 		<data>
-		dNouJTTwCaSKAXQPUaXZ75/a9Hk=
+		AZndxe08XfrOSKyMRrwrdSrkVPg=
 		</data>
 		<key>KlatMyChatMessageCell.nib</key>
 		<data>
@@ -90,23 +90,23 @@
 		</data>
 		<key>Modules/KlatUIKit.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		9XDwZdBPXZKWWYShFIjGjJztJUM=
+		Js2SboGjcf6DL9GH7Wr3HxFCRww=
 		</data>
 		<key>Modules/KlatUIKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		qNlM3kUxkP5ZXF0Za49JuyV5r/M=
+		NMaTxmLZNI+hvekZlZ2972IjyGs=
 		</data>
 		<key>Modules/KlatUIKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		bbkUDJTyO3dDDpHgMQcDnIls3HA=
+		uYih5ht+tk0UGXatbCDr+Wwnw6A=
 		</data>
 		<key>Modules/KlatUIKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		qNlM3kUxkP5ZXF0Za49JuyV5r/M=
+		NMaTxmLZNI+hvekZlZ2972IjyGs=
 		</data>
 		<key>Modules/KlatUIKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		EzVCha6KD9IhvgS388iV7P8n+G0=
+		1VDP7rEEHl4ADaD3F/Wk/zD4CD4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -123,14 +123,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xpsx+dJZV62PWtP4hTfxUnzgPz6O1FpTdvL7nzif/1E=
+			Rx2git14TCLkMsxRy1JLDe6HQOFhkbmExXBvdjFG5Ws=
 			</data>
 		</dict>
 		<key>Headers/KlatUIKit-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DuXo4vbu+5SYeJMGLqjLHYs3VlXCPC9TjfFyKuD3sOU=
+			WpiDyqtXRuX3IjmJ3cp5r/0OoamRIKiZqKz6MS++/Wk=
 			</data>
 		</dict>
 		<key>Headers/KlatUIKit.h</key>
@@ -165,28 +165,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ofo/Ha33MRErgIUAXTEqqMzhDPHA8tY1UyIyosY8isk=
+			mpjKI+XLmh0YAR+fPmmRqJzP7xuH6kx4X+huqlhFkLY=
 			</data>
 		</dict>
 		<key>KlatCreateChannelViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IE04oHPq6EOahFtuLFdxy+p4ew9gFOQj2hFJfsewUvw=
+			ZaEA+2zTDALvcBi7QNJKjLDs7lquMCaSsNOPn0I+noI=
 			</data>
 		</dict>
 		<key>KlatEditChannelViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OgFNGx6B6vX+gdsxQyGfhTm4BxJtV7x2CXObyY9FQuM=
+			nxIFgYqSU/gx+w1TisHrXEmZ32DR5xV31FD0fwidQxQ=
 			</data>
 		</dict>
 		<key>KlatErrorViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kdecCqTVABQusZKl6sKYUXG94ayXDqHD6/rxTWYAwhM=
+			iv1Gmu7LYb7eBQT7bi1GSDMMYjUWiK0w1gPGOvjI22U=
 			</data>
 		</dict>
 		<key>KlatImageViewerViewController.nib</key>
@@ -200,7 +200,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wdY5E08luoabgbPXns9E4BcNRlqcDfYxu68dLEflSmI=
+			R353pEPPvWttB0mndYpPJikWBzt/I7kGawsqdLN0LBY=
 			</data>
 		</dict>
 		<key>KlatMemberListTableViewCell.nib</key>
@@ -221,7 +221,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BmSXfnHqZAnI9ySpZTZNFzdT6dcr6vQNoI6c3GY6Ahc=
+			X/W7XQKCvmPAEWvq0Wxz0Oe0ad9QW+U0yIWc+z5IGKI=
 			</data>
 		</dict>
 		<key>KlatMyChatMessageCell.nib</key>
@@ -263,35 +263,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7lE3/BItWyUDbkuXuZsriWsbFtmR1TI6joZNyib26qc=
+			e+K4QScXZznXRTxpRv+O6KVQXWt2Mgwe2OU8x4mhX30=
 			</data>
 		</dict>
 		<key>Modules/KlatUIKit.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JxYGel6BiUG4zm6uWT87bxVmqo7KAKk6s2oF3DZ53FQ=
+			+toQQ5XFg6hVPoLgWWX3b/nxe+YEJHkFR+oksOmeawQ=
 			</data>
 		</dict>
 		<key>Modules/KlatUIKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xZrf4+ESC3lmrWsRstRmR0J7bvMiWfzLcV9R/4Kd1hU=
+			tYfx3gbrNej2iKlB5kmiyQoOlXY7kNiHsSsUADIZgM4=
 			</data>
 		</dict>
 		<key>Modules/KlatUIKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JxYGel6BiUG4zm6uWT87bxVmqo7KAKk6s2oF3DZ53FQ=
+			+toQQ5XFg6hVPoLgWWX3b/nxe+YEJHkFR+oksOmeawQ=
 			</data>
 		</dict>
 		<key>Modules/KlatUIKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0wr84Y6epnICU0MRBIZW/oQrvMOKCikLdusSvyTqg3M=
+			bX4IeDNq9bWBDJ8r3kJC8BLb5Xod9IxWW3sH8s7hWlE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
