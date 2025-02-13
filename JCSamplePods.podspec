@@ -27,6 +27,6 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/JCLEE-ADX/JCSamplePod.git', :tag => s.version.to_s }
   s.ios.vendored_framework = ['ios/KlatUIKit.xcframework', 'TalkPlus.xcframework']
   s.requires_arc = true
-  s.dependency 'talkplus-ios', '>= 1.0.0'
+  #s.dependency 'talkplus-ios', '>= 1.0.0'
 
 end
