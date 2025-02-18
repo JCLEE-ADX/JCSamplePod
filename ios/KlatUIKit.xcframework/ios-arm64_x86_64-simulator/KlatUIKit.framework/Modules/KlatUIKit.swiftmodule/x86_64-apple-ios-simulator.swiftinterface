@@ -47,7 +47,7 @@ extension KlatUIKit.KlatChannelListViewController : UIKit.UITableViewDelegate, U
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers @objcMembers @_Concurrency.MainActor @preconcurrency public class KlatChatMessageViewController : KlatUIKit.KlatBaseViewController {
-  @objc @_Concurrency.MainActor @preconcurrency public var chatChannel: TalkPlus.TPChannel?
+  @objc @_Concurrency.MainActor @preconcurrency public var chatChannel: Swift.AnyObject?
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func viewDidLoad()
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func viewDidAppear(_ animated: Swift.Bool)
   @objc deinit

@@ -351,11 +351,10 @@ SWIFT_CLASS("_TtC9KlatUIKit29KlatChannelListViewController")
 - (CGFloat)tableView:(UITableView * _Nonnull)tableView heightForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
 @end
 
-@class TPChannel;
 
 SWIFT_CLASS("_TtC9KlatUIKit29KlatChatMessageViewController")
 @interface KlatChatMessageViewController : KlatBaseViewController
-@property (nonatomic, strong) TPChannel * _Nullable chatChannel;
+@property (nonatomic, strong) id _Nullable chatChannel;
 - (void)viewDidLoad;
 - (void)viewDidAppear:(BOOL)animated;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
@@ -765,11 +764,10 @@ SWIFT_CLASS("_TtC9KlatUIKit29KlatChannelListViewController")
 - (CGFloat)tableView:(UITableView * _Nonnull)tableView heightForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
 @end
 
-@class TPChannel;
 
 SWIFT_CLASS("_TtC9KlatUIKit29KlatChatMessageViewController")
 @interface KlatChatMessageViewController : KlatBaseViewController
-@property (nonatomic, strong) TPChannel * _Nullable chatChannel;
+@property (nonatomic, strong) id _Nullable chatChannel;
 - (void)viewDidLoad;
 - (void)viewDidAppear:(BOOL)animated;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;

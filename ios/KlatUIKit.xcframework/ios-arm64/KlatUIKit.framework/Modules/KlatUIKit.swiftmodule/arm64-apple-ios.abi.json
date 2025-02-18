@@ -936,13 +936,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "TalkPlus.TPChannel?",
+                "printedName": "AnyObject?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "TPChannel",
-                    "printedName": "TalkPlus.TPChannel",
-                    "usr": "c:objc(cs)TPChannel"
+                    "name": "ProtocolComposition",
+                    "printedName": "AnyObject"
                   }
                 ],
                 "usr": "s:Sq"
@@ -950,7 +949,7 @@
             ],
             "declKind": "Var",
             "usr": "c:@M@KlatUIKit@objc(cs)KlatChatMessageViewController(py)chatChannel",
-            "mangledName": "$s9KlatUIKit0A25ChatMessageViewControllerC11chatChannelSo9TPChannelCSgvp",
+            "mangledName": "$s9KlatUIKit0A25ChatMessageViewControllerC11chatChannelyXlSgvp",
             "moduleName": "KlatUIKit",
             "declAttributes": [
               "HasInitialValue",
@@ -970,13 +969,12 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "TalkPlus.TPChannel?",
+                    "printedName": "AnyObject?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "TPChannel",
-                        "printedName": "TalkPlus.TPChannel",
-                        "usr": "c:objc(cs)TPChannel"
+                        "name": "ProtocolComposition",
+                        "printedName": "AnyObject"
                       }
                     ],
                     "usr": "s:Sq"
@@ -984,7 +982,7 @@
                 ],
                 "declKind": "Accessor",
                 "usr": "c:@M@KlatUIKit@objc(cs)KlatChatMessageViewController(im)chatChannel",
-                "mangledName": "$s9KlatUIKit0A25ChatMessageViewControllerC11chatChannelSo9TPChannelCSgvg",
+                "mangledName": "$s9KlatUIKit0A25ChatMessageViewControllerC11chatChannelyXlSgvg",
                 "moduleName": "KlatUIKit",
                 "implicit": true,
                 "declAttributes": [
@@ -1005,13 +1003,12 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "TalkPlus.TPChannel?",
+                    "printedName": "AnyObject?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "TPChannel",
-                        "printedName": "TalkPlus.TPChannel",
-                        "usr": "c:objc(cs)TPChannel"
+                        "name": "ProtocolComposition",
+                        "printedName": "AnyObject"
                       }
                     ],
                     "usr": "s:Sq"
@@ -1019,7 +1016,7 @@
                 ],
                 "declKind": "Accessor",
                 "usr": "c:@M@KlatUIKit@objc(cs)KlatChatMessageViewController(im)setChatChannel:",
-                "mangledName": "$s9KlatUIKit0A25ChatMessageViewControllerC11chatChannelSo9TPChannelCSgvs",
+                "mangledName": "$s9KlatUIKit0A25ChatMessageViewControllerC11chatChannelyXlSgvs",
                 "moduleName": "KlatUIKit",
                 "implicit": true,
                 "declAttributes": [
@@ -1039,8 +1036,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:9KlatUIKit0A25ChatMessageViewControllerC11chatChannelSo9TPChannelCSgvM",
-                "mangledName": "$s9KlatUIKit0A25ChatMessageViewControllerC11chatChannelSo9TPChannelCSgvM",
+                "usr": "s:9KlatUIKit0A25ChatMessageViewControllerC11chatChannelyXlSgvM",
+                "mangledName": "$s9KlatUIKit0A25ChatMessageViewControllerC11chatChannelyXlSgvM",
                 "moduleName": "KlatUIKit",
                 "implicit": true,
                 "accessorKind": "_modify"
@@ -5919,70 +5916,70 @@
     {
       "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/ViewControllers\/ChatMessageViewController\/KlatChatMessageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12890,
+      "offset": 12932,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/ViewControllers\/ChatMessageViewController\/KlatChatMessageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12896,
+      "offset": 12938,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/ViewControllers\/ChatMessageViewController\/KlatChatMessageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12906,
+      "offset": 12948,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/ViewControllers\/ChatMessageViewController\/KlatChatMessageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12918,
+      "offset": 12960,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/ViewControllers\/ChatMessageViewController\/KlatChatMessageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 12963,
+      "offset": 13005,
       "length": 10,
       "value": "\"KlatBack\""
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/ViewControllers\/ChatMessageViewController\/KlatChatMessageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13400,
+      "offset": 13442,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/ViewControllers\/ChatMessageViewController\/KlatChatMessageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13406,
+      "offset": 13448,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/ViewControllers\/ChatMessageViewController\/KlatChatMessageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13416,
+      "offset": 13458,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/ViewControllers\/ChatMessageViewController\/KlatChatMessageViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13428,
+      "offset": 13470,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/talkplus\/uikit\/klat-uikit-ios\/klat-uikit-ios\/Sources\/ViewControllers\/ChatMessageViewController\/KlatChatMessageViewController.swift",
       "kind": "StringLiteral",
-      "offset": 13473,
+      "offset": 13515,
       "length": 17,
       "value": "\"KlatChannelInfo\""
     },
