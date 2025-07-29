@@ -304,14 +304,17 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if defined(__OBJC__)
 
 
+@protocol PointPubDelegate;
 @class NSString;
 @class UIViewController;
-@protocol PointPubDelegate;
 @class NSNumber;
 @class NSError;
 
 SWIFT_CLASS("_TtC11PointPubSDK8PointPub")
 @interface PointPub : NSObject
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, weak) id <PointPubDelegate> _Nullable delegate;)
++ (id <PointPubDelegate> _Nullable)delegate SWIFT_WARN_UNUSED_RESULT;
++ (void)setDelegate:(id <PointPubDelegate> _Nullable)value;
 /// 포인트펍에서 사용할 앱 아이디를 설정합니다.
 /// \param with appId 앱 아이디
 ///
@@ -320,11 +323,10 @@ SWIFT_CLASS("_TtC11PointPubSDK8PointPub")
 /// \param with userId 사용자 아이디
 ///
 + (void)setUserIdWith:(NSString * _Nonnull)userId;
-/// 사용자 아이디 설정 이후 포인트펍을 시작할 때 호출합니다.
-/// \param from viewController 포인트펍을 호출 할 UIViewController,
-/// viewController는 PointPubDelegate를 채택해야 합니다.
+/// 앱 아이디와 사용자 아이디 설정 이후 포인트펍을 시작할 때 호출합니다.
+/// \param from viewController 포인트펍을 호출 할 UIViewController
 ///
-+ (void)startOfferwallFrom:(UIViewController <PointPubDelegate> * _Nonnull)viewController;
++ (void)startOfferwallFrom:(UIViewController * _Nonnull)viewController;
 + (void)getVirtualPoint:(void (^ _Nonnull)(NSString * _Nullable, NSNumber * _Nullable, NSError * _Nullable))completion;
 + (void)spendVirtualPointWithPoint:(NSNumber * _Nonnull)point :(void (^ _Nonnull)(NSString * _Nullable, NSNumber * _Nullable, NSError * _Nullable))completion;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
@@ -679,14 +681,17 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if defined(__OBJC__)
 
 
+@protocol PointPubDelegate;
 @class NSString;
 @class UIViewController;
-@protocol PointPubDelegate;
 @class NSNumber;
 @class NSError;
 
 SWIFT_CLASS("_TtC11PointPubSDK8PointPub")
 @interface PointPub : NSObject
+SWIFT_CLASS_PROPERTY(@property (nonatomic, class, weak) id <PointPubDelegate> _Nullable delegate;)
++ (id <PointPubDelegate> _Nullable)delegate SWIFT_WARN_UNUSED_RESULT;
++ (void)setDelegate:(id <PointPubDelegate> _Nullable)value;
 /// 포인트펍에서 사용할 앱 아이디를 설정합니다.
 /// \param with appId 앱 아이디
 ///
@@ -695,11 +700,10 @@ SWIFT_CLASS("_TtC11PointPubSDK8PointPub")
 /// \param with userId 사용자 아이디
 ///
 + (void)setUserIdWith:(NSString * _Nonnull)userId;
-/// 사용자 아이디 설정 이후 포인트펍을 시작할 때 호출합니다.
-/// \param from viewController 포인트펍을 호출 할 UIViewController,
-/// viewController는 PointPubDelegate를 채택해야 합니다.
+/// 앱 아이디와 사용자 아이디 설정 이후 포인트펍을 시작할 때 호출합니다.
+/// \param from viewController 포인트펍을 호출 할 UIViewController
 ///
-+ (void)startOfferwallFrom:(UIViewController <PointPubDelegate> * _Nonnull)viewController;
++ (void)startOfferwallFrom:(UIViewController * _Nonnull)viewController;
 + (void)getVirtualPoint:(void (^ _Nonnull)(NSString * _Nullable, NSNumber * _Nullable, NSError * _Nullable))completion;
 + (void)spendVirtualPointWithPoint:(NSNumber * _Nonnull)point :(void (^ _Nonnull)(NSString * _Nullable, NSNumber * _Nullable, NSError * _Nullable))completion;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;

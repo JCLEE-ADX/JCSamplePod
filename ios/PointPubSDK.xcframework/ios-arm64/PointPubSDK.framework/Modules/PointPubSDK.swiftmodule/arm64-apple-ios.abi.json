@@ -1392,6 +1392,126 @@
         "printedName": "PointPub",
         "children": [
           {
+            "kind": "Var",
+            "name": "delegate",
+            "printedName": "delegate",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "WeakStorage",
+                "printedName": "(any PointPubSDK.PointPubDelegate)?"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@PointPubSDK@objc(cs)PointPub(cpy)delegate",
+            "mangledName": "$s11PointPubSDK0aB0C8delegateAA0aB8Delegate_pSgvpZ",
+            "moduleName": "PointPubSDK",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "ReferenceOwnership",
+              "AccessControl",
+              "ObjC"
+            ],
+            "ownership": 1,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any PointPubSDK.PointPubDelegate)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PointPubDelegate",
+                        "printedName": "any PointPubSDK.PointPubDelegate",
+                        "usr": "c:@M@PointPubSDK@objc(pl)PointPubDelegate"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@PointPubSDK@objc(cs)PointPub(cm)delegate",
+                "mangledName": "$s11PointPubSDK0aB0C8delegateAA0aB8Delegate_pSgvgZ",
+                "moduleName": "PointPubSDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any PointPubSDK.PointPubDelegate)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PointPubDelegate",
+                        "printedName": "any PointPubSDK.PointPubDelegate",
+                        "usr": "c:@M@PointPubSDK@objc(pl)PointPubDelegate"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@PointPubSDK@objc(cs)PointPub(cm)setDelegate:",
+                "mangledName": "$s11PointPubSDK0aB0C8delegateAA0aB8Delegate_pSgvsZ",
+                "moduleName": "PointPubSDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11PointPubSDK0aB0C8delegateAA0aB8Delegate_pSgvMZ",
+                "mangledName": "$s11PointPubSDK0aB0C8delegateAA0aB8Delegate_pSgvMZ",
+                "moduleName": "PointPubSDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
             "kind": "Function",
             "name": "setAppId",
             "printedName": "setAppId(with:)",
@@ -1465,13 +1585,14 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "ProtocolComposition",
-                "printedName": "any UIKit.UIViewController & PointPubSDK.PointPubDelegate"
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
               }
             ],
             "declKind": "Func",
             "usr": "c:@M@PointPubSDK@objc(cs)PointPub(cm)startOfferwallFrom:",
-            "mangledName": "$s11PointPubSDK0aB0C14startOfferwall4fromyAA0aB8Delegate_So16UIViewControllerCXc_tFZ",
+            "mangledName": "$s11PointPubSDK0aB0C14startOfferwall4fromySo16UIViewControllerC_tFZ",
             "moduleName": "PointPubSDK",
             "static": true,
             "objc_name": "startOfferwallFrom:",
@@ -4641,119 +4762,119 @@
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 592,
+      "offset": 543,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 627,
+      "offset": 578,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 695,
+      "offset": 646,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 973,
+      "offset": 924,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1094,
+      "offset": 1045,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1268,
+      "offset": 1219,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1324,
+      "offset": 1275,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1393,
+      "offset": 1344,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1634,
+      "offset": 1585,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2252,
+      "offset": 2203,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2652,
+      "offset": 2603,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2732,
+      "offset": 2683,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2742,
+      "offset": 2693,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3471,
+      "offset": 3422,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3701,
+      "offset": 3652,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "Array",
-      "offset": 3909,
+      "offset": 3860,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12412,
+      "offset": 12319,
       "length": 4,
       "value": "true"
     },

@@ -30,9 +30,10 @@ import os
   case fail(Swift.String)
 }
 @_inheritsConvenienceInitializers @objc final public class PointPub : ObjectiveC.NSObject {
+  @objc weak public static var delegate: (any PointPubSDK.PointPubDelegate)?
   @objc public static func setAppId(with appId: Swift.String)
   @objc public static func setUserId(with userId: Swift.String)
-  @objc public static func startOfferwall(from viewController: any UIKit.UIViewController & PointPubSDK.PointPubDelegate)
+  @objc public static func startOfferwall(from viewController: UIKit.UIViewController)
   @objc public static func getVirtualPoint(_ completion: @escaping (Foundation.NSString?, Foundation.NSNumber?, Foundation.NSError?) -> Swift.Void)
   public static func getVirtualPoint() async throws -> (pointName: Swift.String, point: Swift.Int)
   @objc public static func spendVirtualPoint(point: Foundation.NSNumber, _ completion: @escaping (Foundation.NSString?, Foundation.NSNumber?, Foundation.NSError?) -> Swift.Void)
