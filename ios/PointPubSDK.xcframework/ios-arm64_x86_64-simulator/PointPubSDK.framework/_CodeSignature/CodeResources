@@ -10,19 +10,19 @@
 		</data>
 		<key>Headers/PointPubSDK-Swift.h</key>
 		<data>
-		O0WjkbJDyevkzKNZdHpob8LMfl0=
+		gISDE+85Y23arlm0/fslKaezf6s=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		orXDcWbvXzjJS/PszVSLuFiWVBI=
+		mfW01OEvwi6IcFwqen7LsS12iYk=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		Va66i3zbt1YCvAY3kuon+T4BMZA=
+		Gwe5eGpGl5wEjCCEyzDV4cWnaCw=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Qu7b9vLTFt7SRXhEl1+DKsz+4jM=
+		hBeamju0WRMqNWr77o6ibkbR3o8=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Qu7b9vLTFt7SRXhEl1+DKsz+4jM=
+		hBeamju0WRMqNWr77o6ibkbR3o8=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Oyh8e2PLFdb+sHNprtnzIF4BYA4=
+		X0BbQO7nokADopTEkfOkZjXg+vk=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		Va66i3zbt1YCvAY3kuon+T4BMZA=
+		Gwe5eGpGl5wEjCCEyzDV4cWnaCw=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		h5hV5Fl6LpiG4VHT8/bJp+xHEIk=
+		wwk2deJv/AwmAGBCpsiOkxQ2LD8=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		h5hV5Fl6LpiG4VHT8/bJp+xHEIk=
+		wwk2deJv/AwmAGBCpsiOkxQ2LD8=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		5907wG5cCzf1hfMdL19WrTl6lfg=
+		9TS1/qAebk6i6zq3NFIoXlNUAVQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -70,21 +70,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZcyIIv8Sr1XFt5FNEhZxBVBFmnIW59QM8GOeu6fcm+0=
+			AqVVoX06fO5wDmGQpIhyVYXzEdN4/LYm9yefde5StRw=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			95D2iLvuW22CGL8+35NNXouZO9zoXJyjT1xUf7TZGUY=
+			v6xPd6J9K+4gNGSKb/dnu8RBfO2XDSILRZ63DdQrQJk=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aD5AD5XpnOM8w3AjjPCTNuEsVLG9kGEJJyM1FJ4SCWE=
+			ti3D6zb7kXvsHQlj962ogJirPrekGmGD2yrb/9pvNsg=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -98,28 +98,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aD5AD5XpnOM8w3AjjPCTNuEsVLG9kGEJJyM1FJ4SCWE=
+			ti3D6zb7kXvsHQlj962ogJirPrekGmGD2yrb/9pvNsg=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5ZICqzYtdoe9RwZBqGMvr/FQzr+X4jnQq5jSgvxxGkI=
+			HTCnHYRMTq4vVblJ6Kjs//mhsXfGMcnnprRNnxCKMdo=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			95D2iLvuW22CGL8+35NNXouZO9zoXJyjT1xUf7TZGUY=
+			v6xPd6J9K+4gNGSKb/dnu8RBfO2XDSILRZ63DdQrQJk=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hpOLEc4ByZRS9uFedXkck4TR8H9X43cqQ7pl24glp3o=
+			IYJ0UaCvl/fBiAY0uO6JLQ6NGyhh9m9e86VbPlWNv0I=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -133,14 +133,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hpOLEc4ByZRS9uFedXkck4TR8H9X43cqQ7pl24glp3o=
+			IYJ0UaCvl/fBiAY0uO6JLQ6NGyhh9m9e86VbPlWNv0I=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hNc2cfPOkf4iMMfqTv+fc77ErFIS8V05rbs/zBBMFMs=
+			qzyQK2NUrS4YEFPUiTaMmUREfE/DX1mXznR8FYB69BM=
 			</data>
 		</dict>
 	</dict>

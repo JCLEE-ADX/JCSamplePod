@@ -10,19 +10,19 @@
 		</data>
 		<key>Headers/PointPubSDK-Swift.h</key>
 		<data>
-		XmOFjkT//uwJgookADDwGbcwaxc=
+		k5dstekcNPbIMSt5pOQMA+t0Ruk=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		FHCMd9ujD1OKfZRf+tn56liUxR8=
+		roirJkJU7WXG3xWUGlnjADm0qeg=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		ltuLAhC7joenMbIS20v8gnaU9To=
+		PT/gjeLEcxtA0ahzzXClJnK77oo=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		D7vctK15aqSpNoBGUJcre9oqr/k=
+		+LiYjSKmTDRWFMM+SSL+M2JLVLA=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		D7vctK15aqSpNoBGUJcre9oqr/k=
+		+LiYjSKmTDRWFMM+SSL+M2JLVLA=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		CIAxWqa5XCnN4v+ysdEDZAD6DhA=
+		Bu+bfIjHFJGndIBPq3Xy9addZvA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -50,21 +50,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QJiqsuAugo9Xj8cbfuz3N98L7VjNHksqKgcWNhzgRdI=
+			dev5nYVLxqyfrHc63pt0RYe+e2qsvTFuisMaD/PTcx8=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xAkpQcwss02NVLVXHFpyYEQw6f6ERr/ajIZIwXPapFI=
+			5qXeoQo1lumhEcQ/QMMaSdOiyPlEpAmiPC2a7jEmBZg=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M7MXQYjateirKx0STnUrjiWQX3qvw4OesNWeu6xnu8w=
+			ehDGPyvyWnG0qeTzEhsxV1fSuS+TIBbhEm2WP3nyrpI=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -78,14 +78,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			M7MXQYjateirKx0STnUrjiWQX3qvw4OesNWeu6xnu8w=
+			ehDGPyvyWnG0qeTzEhsxV1fSuS+TIBbhEm2WP3nyrpI=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			N1xkh7hk6bkqr495akJVhvXaQFsWN/YtWlWCnaNi+T8=
+			5ZZayjC72OaoP1bpBtWepHfa6rWA8GuaYhHaf4G750M=
 			</data>
 		</dict>
 	</dict>

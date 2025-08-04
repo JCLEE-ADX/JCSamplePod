@@ -307,8 +307,8 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 @protocol PointPubDelegate;
 @class NSString;
 @class UIViewController;
-@class NSNumber;
 @class NSError;
+@class NSNumber;
 
 SWIFT_CLASS("_TtC11PointPubSDK8PointPub")
 @interface PointPub : NSObject
@@ -327,6 +327,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, weak) id <PointPubDelegate> _N
 /// \param from viewController 포인트펍을 호출 할 UIViewController
 ///
 + (void)startOfferwallFrom:(UIViewController * _Nonnull)viewController;
++ (void)getCompletedCampaign:(void (^ _Nonnull)(NSString * _Nullable, NSError * _Nullable))completion;
 + (void)getVirtualPoint:(void (^ _Nonnull)(NSString * _Nullable, NSNumber * _Nullable, NSError * _Nullable))completion;
 + (void)spendVirtualPointWithPoint:(NSNumber * _Nonnull)point :(void (^ _Nonnull)(NSString * _Nullable, NSNumber * _Nullable, NSError * _Nullable))completion;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
