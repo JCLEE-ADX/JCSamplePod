@@ -1176,13 +1176,20 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
+        "name": "AppTrackingTransparency",
+        "printedName": "AppTrackingTransparency",
         "declKind": "Import",
         "moduleName": "PointPubSDK",
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PointPubSDK"
       },
       {
         "kind": "Import",
@@ -2018,6 +2025,30 @@
           },
           {
             "kind": "Function",
+            "name": "requestTrackingPermission",
+            "printedName": "requestTrackingPermission()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@PointPubSDK@objc(cs)PointPub(cm)requestTrackingPermission",
+            "mangledName": "$s11PointPubSDK0aB0C25requestTrackingPermissionyyFZ",
+            "moduleName": "PointPubSDK",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "enableLogTrace",
             "printedName": "enableLogTrace()",
             "children": [
@@ -2030,6 +2061,31 @@
             "declKind": "Func",
             "usr": "c:@M@PointPubSDK@objc(cs)PointPub(cm)enableLogTrace",
             "mangledName": "$s11PointPubSDK0aB0C14enableLogTraceyyFZ",
+            "moduleName": "PointPubSDK",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "isLogTrace",
+            "printedName": "isLogTrace()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@PointPubSDK@objc(cs)PointPub(cm)isLogTrace",
+            "mangledName": "$s11PointPubSDK0aB0C10isLogTraceSbyFZ",
             "moduleName": "PointPubSDK",
             "static": true,
             "declAttributes": [
@@ -5586,14 +5642,14 @@
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Utils\/Common\/System.swift",
       "kind": "BooleanLiteral",
-      "offset": 8181,
+      "offset": 8172,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Utils\/Common\/System.swift",
       "kind": "BooleanLiteral",
-      "offset": 8223,
+      "offset": 8214,
       "length": 5,
       "value": "false"
     },

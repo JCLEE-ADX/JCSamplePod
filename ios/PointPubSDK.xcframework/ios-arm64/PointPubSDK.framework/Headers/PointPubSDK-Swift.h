@@ -371,10 +371,26 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, weak) id <PointPubDelegate> _N
 /// \param completion 작업 완료 시 호출되는 클로저입니다.
 ///
 + (void)spendVirtualPointWithPoint:(NSNumber * _Nonnull)point :(void (^ _Nonnull)(NSString * _Nullable, NSNumber * _Nullable, NSError * _Nullable))completion;
+/// App Tracking Transparency(ATT) 권한을 요청합니다.
+/// <ul>
+///   <li>
+///     iOS 14 이상에서만 ATT 권한 요청이 가능하며, Info.plist에
+///     ‘NSUserTrackingUsageDescription’ 키가 포함되어 있어야 합니다.
+///   </li>
+///   <li>
+///     이미 권한이 허용되었거나, 거부되었거나, 제한된 상태라면 별도 요청 없이 결과를 반환합니다.
+///   </li>
+///   <li>
+///     앱 상태가 활성 상태가 아닐 경우, 활성화 될 때까지 대기한 후 권한 요청을 수행합니다.
+///   </li>
+/// </ul>
++ (void)requestTrackingPermission;
 /// PointPubSDK의 상세 로그를 콘솔에 출력하도록 활성화합니다.
 /// 이 메서드를 호출하면 SDK 내부 동작(예: 네트워크 요청/응답, 오류 등)에 대한
 /// 디버깅 로그가 콘솔에 출력됩니다.
 + (void)enableLogTrace;
+/// PointPubSDK의 enableLogTrace() 메소드가 호출됐는지 여부를 확인합니다.
++ (BOOL)isLogTrace SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
