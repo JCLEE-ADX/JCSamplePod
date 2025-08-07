@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/PointPubSDK-Swift.h</key>
 		<data>
-		k5dstekcNPbIMSt5pOQMA+t0Ruk=
+		oUAPWvBtp4/lhz1GAZ+t4pLbkzo=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -18,23 +18,23 @@
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		PT/gjeLEcxtA0ahzzXClJnK77oo=
+		C5PDQTPDYFn3cVJVeZHrUZeW3U4=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		+LiYjSKmTDRWFMM+SSL+M2JLVLA=
+		ApfQf9hQk0VIxnzZhbOY/wfgxzA=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		SZ58RevnNbgMZNp4D5KAYKMenbk=
+		utQDfmyRLuJQFs72YgDj5JvzTwI=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		+LiYjSKmTDRWFMM+SSL+M2JLVLA=
+		ApfQf9hQk0VIxnzZhbOY/wfgxzA=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Bu+bfIjHFJGndIBPq3Xy9addZvA=
+		B0iZYjjhjRGaoT5trUOczI1aRik=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -50,42 +50,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dev5nYVLxqyfrHc63pt0RYe+e2qsvTFuisMaD/PTcx8=
+			Ngbh8JAdXGjTBgeNni57BfBq7qfovIEB7vPuHXPa4bM=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5qXeoQo1lumhEcQ/QMMaSdOiyPlEpAmiPC2a7jEmBZg=
+			AvqIWukOijF8LaMNJqcOwGAbpp8SArqNlh39FK3Hiyk=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ehDGPyvyWnG0qeTzEhsxV1fSuS+TIBbhEm2WP3nyrpI=
+			Qf7h27CVvOqeOYwtZ8Ht7+WEeOMeSJEaSKUwbTsTWPQ=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FIWDKc4+z3q1EwbeE471HItSUUXiYbPsUhAnx+oJI58=
+			7OgNdZTj4kIUVu4mop3NY4QrU+I20xT+R15YGoKKWMI=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ehDGPyvyWnG0qeTzEhsxV1fSuS+TIBbhEm2WP3nyrpI=
+			Qf7h27CVvOqeOYwtZ8Ht7+WEeOMeSJEaSKUwbTsTWPQ=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5ZZayjC72OaoP1bpBtWepHfa6rWA8GuaYhHaf4G750M=
+			zImbhcxypsAFyGmiLKzvHYbEszUDBEmi1Jv3ULQ8SOc=
 			</data>
 		</dict>
 	</dict>

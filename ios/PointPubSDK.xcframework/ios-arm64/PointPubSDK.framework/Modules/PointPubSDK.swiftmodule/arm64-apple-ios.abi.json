@@ -49,6 +49,16 @@
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
+        "moduleName": "PointPubSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
         "moduleName": "PointPubSDK"
       },
       {
@@ -353,33 +363,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "PointPubSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "PointPubSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "PointPubSDK"
-      },
-      {
-        "kind": "Import",
         "name": "Combine",
         "printedName": "Combine",
         "declKind": "Import",
@@ -397,8 +380,8 @@
       },
       {
         "kind": "Import",
-        "name": "Combine",
-        "printedName": "Combine",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "PointPubSDK",
         "declAttributes": [
@@ -409,23 +392,6 @@
         "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "PointPubSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "PointPubSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
         "declKind": "Import",
         "moduleName": "PointPubSDK",
         "declAttributes": [
@@ -436,142 +402,6 @@
         "kind": "Import",
         "name": "Combine",
         "printedName": "Combine",
-        "declKind": "Import",
-        "moduleName": "PointPubSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "PointPubSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "PointPubSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "PointPubSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Combine",
-        "printedName": "Combine",
-        "declKind": "Import",
-        "moduleName": "PointPubSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "PointPubSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "PointPubSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "PointPubSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "PointPubSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "PointPubSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "PointPubSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "PointPubSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "PointPubSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "PointPubSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Combine",
-        "printedName": "Combine",
-        "declKind": "Import",
-        "moduleName": "PointPubSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "PointPubSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "PointPubSDK"
       },
@@ -624,6 +454,193 @@
         "name": "Combine",
         "printedName": "Combine",
         "declKind": "Import",
+        "moduleName": "PointPubSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PointPubSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PointPubSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PointPubSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "PointPubSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PointPubSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PointPubSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PointPubSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PointPubSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PointPubSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PointPubSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PointPubSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PointPubSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PointPubSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "PointPubSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PointPubSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PointPubSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PointPubSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
+        "moduleName": "PointPubSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PointPubSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PointPubSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PointPubSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Combine",
+        "printedName": "Combine",
+        "declKind": "Import",
         "moduleName": "PointPubSDK",
         "declAttributes": [
           "RawDocComment"
@@ -838,6 +855,16 @@
         "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "PointPubSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
         "declKind": "Import",
         "moduleName": "PointPubSDK",
         "declAttributes": [
@@ -1107,6 +1134,13 @@
         "kind": "Import",
         "name": "os",
         "printedName": "os",
+        "declKind": "Import",
+        "moduleName": "PointPubSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "PointPubSDK"
       },
@@ -1717,7 +1751,8 @@
             "static": true,
             "declAttributes": [
               "Final",
-              "AccessControl"
+              "AccessControl",
+              "RawDocComment"
             ],
             "throwing": true,
             "funcSelfKind": "NonMutating"
@@ -1839,7 +1874,8 @@
             "static": true,
             "declAttributes": [
               "Final",
-              "AccessControl"
+              "AccessControl",
+              "RawDocComment"
             ],
             "throwing": true,
             "funcSelfKind": "NonMutating"
@@ -1931,7 +1967,8 @@
             "declAttributes": [
               "Final",
               "AccessControl",
-              "ObjC"
+              "ObjC",
+              "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -1973,9 +2010,34 @@
             "static": true,
             "declAttributes": [
               "Final",
-              "AccessControl"
+              "AccessControl",
+              "RawDocComment"
             ],
             "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "enableLogTrace",
+            "printedName": "enableLogTrace()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@PointPubSDK@objc(cs)PointPub(cm)enableLogTrace",
+            "mangledName": "$s11PointPubSDK0aB0C14enableLogTraceyyFZ",
+            "moduleName": "PointPubSDK",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC",
+              "RawDocComment"
+            ],
             "funcSelfKind": "NonMutating"
           },
           {
@@ -2487,6 +2549,118 @@
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/CustomViews\/PPCarouselCollectionView.swift",
       "kind": "BooleanLiteral",
       "offset": 4027,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/CustomViews\/PPErrorAlertView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 334,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/CustomViews\/PPErrorAlertView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 372,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/CustomViews\/PPErrorAlertView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 434,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/CustomViews\/PPErrorAlertView.swift",
+      "kind": "StringLiteral",
+      "offset": 564,
+      "length": 8,
+      "value": "\"안내\""
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/CustomViews\/PPErrorAlertView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 674,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/CustomViews\/PPErrorAlertView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 736,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/CustomViews\/PPErrorAlertView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 878,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/CustomViews\/PPErrorAlertView.swift",
+      "kind": "StringLiteral",
+      "offset": 901,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/CustomViews\/PPErrorAlertView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1042,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/CustomViews\/PPErrorAlertView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1104,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/CustomViews\/PPErrorAlertView.swift",
+      "kind": "StringLiteral",
+      "offset": 1223,
+      "length": 8,
+      "value": "\"확인\""
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/CustomViews\/PPErrorAlertView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1247,
+      "length": 2,
+      "value": "55"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/CustomViews\/PPErrorAlertView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1387,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/CustomViews\/PPErrorAlertView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1590,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/CustomViews\/PPErrorAlertView.swift",
+      "kind": "StringLiteral",
+      "offset": 1759,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/DesignSystem\/CustomViews\/PPErrorAlertView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1878,
       "length": 5,
       "value": "false"
     },
@@ -3620,380 +3794,408 @@
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/ViewModel\/PPCustomerServiceViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 816,
+      "offset": 846,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/ViewModel\/PPCustomerServiceViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 868,
+      "offset": 898,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/ViewModel\/PPCustomerServiceViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 952,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/ViewModel\/PPSendInquiryViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 784,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/ViewModel\/PPSendInquiryViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 754,
+      "offset": 840,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/ViewModel\/PPSendInquiryViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 810,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/ViewModel\/PPSendInquiryViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 868,
+      "offset": 898,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/ViewModel\/PPSendInquiryViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 950,
+      "offset": 952,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPNewsRewardViewController\/PPNewsRewardViewController.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/ViewModel\/PPSendInquiryViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1032,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPNewsRewardViewController\/View\/PPNewsRewardViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 336,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPNewsRewardViewController\/PPNewsRewardViewController.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPNewsRewardViewController\/View\/PPNewsRewardViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 428,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPNewsRewardViewController\/PPNewsRewardViewController.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPNewsRewardViewController\/View\/PPNewsRewardViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 826,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPNewsRewardViewController\/PPNewsRewardViewController.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPNewsRewardViewController\/View\/PPNewsRewardViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 892,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPNewsRewardViewController\/PPRewardHeaderView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPNewsRewardViewController\/View\/PPRewardHeaderView.swift",
       "kind": "IntegerLiteral",
       "offset": 237,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPNewsRewardViewController\/PPRewardHeaderView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPNewsRewardViewController\/View\/PPRewardHeaderView.swift",
       "kind": "IntegerLiteral",
       "offset": 243,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPNewsRewardViewController\/PPRewardHeaderView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPNewsRewardViewController\/View\/PPRewardHeaderView.swift",
       "kind": "IntegerLiteral",
       "offset": 253,
       "length": 2,
       "value": "40"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPNewsRewardViewController\/PPRewardHeaderView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPNewsRewardViewController\/View\/PPRewardHeaderView.swift",
       "kind": "IntegerLiteral",
       "offset": 265,
       "length": 2,
       "value": "40"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPNewsRewardViewController\/PPRewardHeaderView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPNewsRewardViewController\/View\/PPRewardHeaderView.swift",
       "kind": "StringLiteral",
       "offset": 499,
       "length": 51,
       "value": "\"뉴스를 읽으면 리워드가 제공됩니다.\""
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPNewsRewardViewController\/PPRewardHeaderView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPNewsRewardViewController\/View\/PPRewardHeaderView.swift",
       "kind": "IntegerLiteral",
       "offset": 614,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPNewsRewardViewController\/PPRewardHeaderView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPNewsRewardViewController\/View\/PPRewardHeaderView.swift",
       "kind": "IntegerLiteral",
       "offset": 812,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPNewsRewardViewController\/PPRewardHeaderView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPNewsRewardViewController\/View\/PPRewardHeaderView.swift",
       "kind": "IntegerLiteral",
       "offset": 818,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPNewsRewardViewController\/PPRewardHeaderView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPNewsRewardViewController\/View\/PPRewardHeaderView.swift",
       "kind": "IntegerLiteral",
       "offset": 828,
       "length": 2,
       "value": "18"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPNewsRewardViewController\/PPRewardHeaderView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPNewsRewardViewController\/View\/PPRewardHeaderView.swift",
       "kind": "IntegerLiteral",
       "offset": 840,
       "length": 2,
       "value": "18"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPNewsRewardViewController\/PPRewardHeaderView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPNewsRewardViewController\/View\/PPRewardHeaderView.swift",
       "kind": "StringLiteral",
       "offset": 884,
       "length": 19,
       "value": "\"icon_close_button\""
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPCautionView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPNewsRewardViewController\/ViewModel\/PPNewsViewModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 622,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPNewsRewardViewController\/ViewModel\/PPNewsViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 929,
+      "length": 51,
+      "value": "\"뉴스를 읽으면 리워드가 제공됩니다.\""
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPNewsRewardViewController\/ViewModel\/PPNewsViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1032,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPNewsRewardViewController\/ViewModel\/PPNewsViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1086,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPNewsRewardViewController\/ViewModel\/PPNewsViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1182,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPNewsRewardViewController\/ViewModel\/PPNewsViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1219,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPCautionView.swift",
       "kind": "IntegerLiteral",
       "offset": 341,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPCautionView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPCautionView.swift",
       "kind": "FloatLiteral",
       "offset": 434,
       "length": 3,
       "value": "0.2"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPCautionView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPCautionView.swift",
       "kind": "IntegerLiteral",
       "offset": 472,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPCautionView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPCautionView.swift",
       "kind": "IntegerLiteral",
       "offset": 522,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPCautionView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPCautionView.swift",
       "kind": "IntegerLiteral",
       "offset": 533,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPCautionView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPCautionView.swift",
       "kind": "BooleanLiteral",
       "offset": 593,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPCautionView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPCautionView.swift",
       "kind": "BooleanLiteral",
       "offset": 675,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPCautionView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPCautionView.swift",
       "kind": "IntegerLiteral",
       "offset": 948,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPCautionView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPCautionView.swift",
       "kind": "IntegerLiteral",
       "offset": 982,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPCautionView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPCautionView.swift",
       "kind": "BooleanLiteral",
       "offset": 1042,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPCautionView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPCautionView.swift",
       "kind": "IntegerLiteral",
       "offset": 1233,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPCautionView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPCautionView.swift",
       "kind": "BooleanLiteral",
       "offset": 1297,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPRewardContentView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPRewardContentView.swift",
       "kind": "IntegerLiteral",
       "offset": 357,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPRewardContentView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPRewardContentView.swift",
       "kind": "BooleanLiteral",
       "offset": 389,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPRewardContentView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPRewardContentView.swift",
       "kind": "BooleanLiteral",
       "offset": 451,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPRewardContentView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPRewardContentView.swift",
       "kind": "BooleanLiteral",
       "offset": 886,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPRewardContentView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPRewardContentView.swift",
       "kind": "BooleanLiteral",
       "offset": 953,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPRewardContentView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPRewardContentView.swift",
       "kind": "IntegerLiteral",
       "offset": 1083,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPRewardContentView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPRewardContentView.swift",
       "kind": "IntegerLiteral",
       "offset": 1205,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPRewardContentView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPRewardContentView.swift",
       "kind": "StringLiteral",
       "offset": 1441,
       "length": 40,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPRewardContentView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPRewardContentView.swift",
       "kind": "StringLiteral",
       "offset": 1459,
       "length": 1,
       "value": "\" \""
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPRewardContentView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPRewardContentView.swift",
       "kind": "StringLiteral",
       "offset": 1480,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPRewardContentView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPRewardContentView.swift",
       "kind": "IntegerLiteral",
       "offset": 1839,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPRewardContentView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPRewardContentView.swift",
       "kind": "BooleanLiteral",
       "offset": 1901,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPRewardContentView.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPRewardContentView.swift",
       "kind": "BooleanLiteral",
       "offset": 2077,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPRewardDetailViewController.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPRewardDetailViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 345,
+      "offset": 361,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPRewardDetailViewController.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPRewardDetailViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1113,
+      "offset": 1141,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/View\/PPRewardDetailViewController\/PPRewardDetailViewController.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/View\/PPRewardDetailViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1174,
+      "offset": 1202,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/ViewModel\/PPNewsViewModel.swift",
-      "kind": "IntegerLiteral",
-      "offset": 592,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/ViewModel\/PPNewsViewModel.swift",
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/PPRewardDetailViewController\/ViewModel\/PPRewardDetailViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 899,
-      "length": 51,
-      "value": "\"뉴스를 읽으면 리워드가 제공됩니다.\""
-    },
-    {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/ViewModel\/PPNewsViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1002,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/ViewModel\/PPNewsViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1101,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Detail\/ViewModel\/PPNewsViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1138,
-      "length": 5,
-      "value": "false"
+      "offset": 653,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPBannerView\/Model\/Banner.swift",
@@ -4061,7 +4263,7 @@
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPBannerView\/View\/PPBannerCollectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3984,
+      "offset": 3994,
       "length": 1,
       "value": "1"
     },
@@ -4166,28 +4368,28 @@
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPBannerView\/ViewModel\/PPBannerViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1340,
+      "offset": 1376,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPBannerView\/ViewModel\/PPBannerViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 1407,
+      "offset": 1443,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPBannerView\/ViewModel\/PPBannerViewModel.swift",
       "kind": "Array",
-      "offset": 1478,
+      "offset": 1514,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPBannerView\/ViewModel\/PPBannerViewModel.swift",
       "kind": "Array",
-      "offset": 1823,
+      "offset": 1912,
       "length": 2,
       "value": "[]"
     },
@@ -4495,70 +4697,63 @@
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPCampaignListView\/View\/PPCampaignContentView.swift",
       "kind": "BooleanLiteral",
-      "offset": 810,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPCampaignListView\/View\/PPCampaignContentView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1297,
+      "offset": 1270,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPCampaignListView\/View\/PPCampaignContentView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1364,
+      "offset": 1337,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPCampaignListView\/View\/PPCampaignContentView.swift",
       "kind": "StringLiteral",
-      "offset": 1551,
+      "offset": 1524,
       "length": 14,
       "value": "\"새로고침\""
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPCampaignListView\/View\/PPCampaignContentView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1754,
+      "offset": 1727,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPCampaignListView\/View\/PPCampaignContentView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1794,
+      "offset": 1767,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPCampaignListView\/View\/PPCampaignContentView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1947,
+      "offset": 1920,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPCampaignListView\/View\/PPCampaignContentView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2310,
+      "offset": 2283,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPCampaignListView\/View\/PPCampaignContentView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2341,
+      "offset": 2314,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPCampaignListView\/View\/PPCampaignContentView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5874,
+      "offset": 5847,
       "length": 4,
       "value": "true"
     },
@@ -4649,42 +4844,49 @@
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPCampaignListView\/ViewModel\/PPCampaignViewModel.swift",
       "kind": "Array",
-      "offset": 1849,
+      "offset": 1884,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPCampaignListView\/ViewModel\/PPCampaignViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 2115,
+      "offset": 2150,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPCampaignListView\/ViewModel\/PPCampaignViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2169,
-      "length": 5,
-      "value": "false"
+      "kind": "StringLiteral",
+      "offset": 2209,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPCampaignListView\/ViewModel\/PPCampaignViewModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2260,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPCampaignListView\/ViewModel\/PPCampaignViewModel.swift",
       "kind": "Array",
-      "offset": 2319,
+      "offset": 2407,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPCampaignListView\/ViewModel\/PPCampaignViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 2373,
+      "offset": 2461,
       "length": 8,
       "value": "\"전체\""
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPCampaignListView\/ViewModel\/PPCampaignViewModel.swift",
       "kind": "Array",
-      "offset": 2599,
+      "offset": 2687,
       "length": 2,
       "value": "[]"
     },
@@ -4844,22 +5046,8 @@
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPConfigViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 368,
-      "length": 18,
-      "value": "\"did Tap disagree\""
-    },
-    {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPConfigViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 522,
-      "length": 15,
-      "value": "\"did Tap agree\""
-    },
-    {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPConfigViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 673,
+      "offset": 588,
       "length": 5,
       "value": "false"
     },
@@ -4880,217 +5068,196 @@
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 343,
+      "offset": 354,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 397,
+      "offset": 597,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 640,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 675,
+      "offset": 632,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 743,
+      "offset": 700,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1021,
+      "offset": 978,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1142,
+      "offset": 1099,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1316,
+      "offset": 1273,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1372,
+      "offset": 1329,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1441,
+      "offset": 1398,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1682,
+      "offset": 1639,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2300,
+      "offset": 2257,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2751,
+      "offset": 2708,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 2940,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3153,
+      "offset": 2959,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3240,
+      "offset": 3046,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 3290,
+      "offset": 3096,
       "length": 4,
       "value": "0.25"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3303,
+      "offset": 3109,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3537,
+      "offset": 3296,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3607,
+      "offset": 3366,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3933,
+      "offset": 3739,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 3983,
+      "offset": 3789,
       "length": 4,
       "value": "0.25"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3996,
+      "offset": 3802,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4100,
+      "offset": 3906,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4252,
+      "offset": 4011,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4322,
+      "offset": 4081,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4540,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4774,
+      "offset": 4530,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5004,
+      "offset": 4760,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "Array",
-      "offset": 5148,
+      "offset": 4904,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13528,
+      "offset": 13388,
       "length": 4,
       "value": "true"
     },
@@ -5167,35 +5334,35 @@
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/NetworkService\/Base\/DefaultParameters.swift",
       "kind": "StringLiteral",
-      "offset": 651,
-      "length": 11,
-      "value": "\"123456789\""
-    },
-    {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/NetworkService\/Base\/DefaultParameters.swift",
-      "kind": "StringLiteral",
-      "offset": 778,
+      "offset": 668,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/NetworkService\/Base\/DefaultParameters.swift",
       "kind": "StringLiteral",
-      "offset": 1433,
+      "offset": 744,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/NetworkService\/Base\/DefaultParameters.swift",
+      "kind": "StringLiteral",
+      "offset": 1399,
       "length": 4,
       "value": "\"LG\""
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/NetworkService\/Base\/DefaultParameters.swift",
       "kind": "IntegerLiteral",
-      "offset": 1655,
+      "offset": 1621,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/NetworkService\/Base\/DefaultParameters.swift",
       "kind": "IntegerLiteral",
-      "offset": 1757,
+      "offset": 1723,
       "length": 1,
       "value": "0"
     },
@@ -5417,6 +5584,20 @@
       "value": "\"wifi\""
     },
     {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Utils\/Common\/System.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8181,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Utils\/Common\/System.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8223,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Utils\/Common\/UserDefault.swift",
       "kind": "StringLiteral",
       "offset": 484,
@@ -5468,23 +5649,37 @@
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Utils\/Log\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 159,
+      "offset": 172,
       "length": 12,
       "value": "\"🐛 DEBUG\""
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Utils\/Log\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 189,
+      "offset": 202,
       "length": 13,
       "value": "\"ℹ️ INFO\""
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Utils\/Log\/Logger.swift",
       "kind": "StringLiteral",
-      "offset": 220,
+      "offset": 233,
       "length": 11,
       "value": "\"❌ ERROR\""
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Utils\/Log\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 269,
+      "length": 11,
+      "value": "\"🟢 INFO\""
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Utils\/Log\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 306,
+      "length": 12,
+      "value": "\"🔴 ERROR\""
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Utils\/Manager\/PPBannerManager.swift",

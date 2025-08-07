@@ -327,9 +327,54 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, weak) id <PointPubDelegate> _N
 /// \param from viewController 포인트펍을 호출 할 UIViewController
 ///
 + (void)startOfferwallFrom:(UIViewController * _Nonnull)viewController;
+/// 참여 완료된 캠페인 정보를 조회합니다.
+/// <ul>
+///   <li>
+///     <code>NSString?</code>: 완료된 캠페인 정보를 담은 JSON 문자열입니다 (성공 시).
+///   </li>
+///   <li>
+///     <code>NSError?</code>: 요청 실패 시 반환되는 에러입니다 (성공 시 nil).
+///   </li>
+/// </ul>
+/// \param completion 작업 완료 시 호출되는 클로저입니다.
+///
 + (void)getCompletedCampaign:(void (^ _Nonnull)(NSString * _Nullable, NSError * _Nullable))completion;
+/// 보유하고 있는 포인트 정보를 조회합니다.
+/// <ul>
+///   <li>
+///     <code>NSString?</code>: 보유하고 있는 포인트 이름입니다 (성공 시).
+///   </li>
+///   <li>
+///     <code>NSNumber?</code>: 보유하고 있는 포인트 정보입니다 (성공 시).
+///   </li>
+///   <li>
+///     <code>NSError?</code>: 요청 실패 시 반환되는 에러입니다 (성공 시 nil).
+///   </li>
+/// </ul>
+/// \param completion 작업 완료 시 호출되는 클로저입니다.
+///
 + (void)getVirtualPoint:(void (^ _Nonnull)(NSString * _Nullable, NSNumber * _Nullable, NSError * _Nullable))completion;
+/// 포인트 사용 및 사용 후 남아있는 포인트 정보를 조회합니다.
+/// <ul>
+///   <li>
+///     <code>NSString?</code>: 보유하고 있는 포인트의 이름입니다 (성공 시).
+///   </li>
+///   <li>
+///     <code>NSNumber?</code>: 포인트 사용 후 남아 있는 포인트입니다 (성공 시).
+///   </li>
+///   <li>
+///     <code>NSError?</code>: 요청 실패 시 반환되는 에러입니다 (성공 시 nil).
+///   </li>
+/// </ul>
+/// \param point 사용할 포인트
+///
+/// \param completion 작업 완료 시 호출되는 클로저입니다.
+///
 + (void)spendVirtualPointWithPoint:(NSNumber * _Nonnull)point :(void (^ _Nonnull)(NSString * _Nullable, NSNumber * _Nullable, NSError * _Nullable))completion;
+/// PointPubSDK의 상세 로그를 콘솔에 출력하도록 활성화합니다.
+/// 이 메서드를 호출하면 SDK 내부 동작(예: 네트워크 요청/응답, 오류 등)에 대한
+/// 디버깅 로그가 콘솔에 출력됩니다.
++ (void)enableLogTrace;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
