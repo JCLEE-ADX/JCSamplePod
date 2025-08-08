@@ -21,13 +21,13 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 import os
-@objc public protocol PointPubDelegate {
-  @objc optional func onOpenOfferwall()
-  @objc optional func onCloseOfferwall()
-}
 @frozen public enum VirtualPointResult {
   case success(Swift.String, Swift.Int)
   case fail(Swift.String, Swift.Int)
+}
+@objc public protocol PointPubDelegate {
+  @objc optional func onOpenOfferwall()
+  @objc optional func onCloseOfferwall()
 }
 @_inheritsConvenienceInitializers @objc final public class PointPub : ObjectiveC.NSObject {
   @objc weak public static var delegate: (any PointPubSDK.PointPubDelegate)?

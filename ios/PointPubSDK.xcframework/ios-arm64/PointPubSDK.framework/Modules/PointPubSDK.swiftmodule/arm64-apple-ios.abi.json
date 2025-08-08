@@ -723,6 +723,183 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PointPubSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "VirtualPointResult",
+        "printedName": "VirtualPointResult",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "success",
+            "printedName": "success",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(PointPubSDK.VirtualPointResult.Type) -> (Swift.String, Swift.Int) -> PointPubSDK.VirtualPointResult",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Swift.String, Swift.Int) -> PointPubSDK.VirtualPointResult",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VirtualPointResult",
+                        "printedName": "PointPubSDK.VirtualPointResult",
+                        "usr": "s:11PointPubSDK07VirtualA6ResultO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Tuple",
+                        "printedName": "(Swift.String, Swift.Int)",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Int",
+                            "printedName": "Swift.Int",
+                            "usr": "s:Si"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "PointPubSDK.VirtualPointResult.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VirtualPointResult",
+                        "printedName": "PointPubSDK.VirtualPointResult",
+                        "usr": "s:11PointPubSDK07VirtualA6ResultO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11PointPubSDK07VirtualA6ResultO7successyACSS_SitcACmF",
+            "mangledName": "$s11PointPubSDK07VirtualA6ResultO7successyACSS_SitcACmF",
+            "moduleName": "PointPubSDK",
+            "fixedbinaryorder": 0
+          },
+          {
+            "kind": "Var",
+            "name": "fail",
+            "printedName": "fail",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(PointPubSDK.VirtualPointResult.Type) -> (Swift.String, Swift.Int) -> PointPubSDK.VirtualPointResult",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Swift.String, Swift.Int) -> PointPubSDK.VirtualPointResult",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VirtualPointResult",
+                        "printedName": "PointPubSDK.VirtualPointResult",
+                        "usr": "s:11PointPubSDK07VirtualA6ResultO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Tuple",
+                        "printedName": "(Swift.String, Swift.Int)",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Int",
+                            "printedName": "Swift.Int",
+                            "usr": "s:Si"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "PointPubSDK.VirtualPointResult.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "VirtualPointResult",
+                        "printedName": "PointPubSDK.VirtualPointResult",
+                        "usr": "s:11PointPubSDK07VirtualA6ResultO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:11PointPubSDK07VirtualA6ResultO4failyACSS_SitcACmF",
+            "mangledName": "$s11PointPubSDK07VirtualA6ResultO4failyACSS_SitcACmF",
+            "moduleName": "PointPubSDK",
+            "fixedbinaryorder": 1
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:11PointPubSDK07VirtualA6ResultO",
+        "mangledName": "$s11PointPubSDK07VirtualA6ResultO",
+        "moduleName": "PointPubSDK",
+        "declAttributes": [
+          "AccessControl",
+          "Frozen"
+        ],
+        "isEnumExhaustive": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -1075,6 +1252,16 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PointPubSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "UIKit.UIApplication",
         "printedName": "UIKit.UIApplication",
         "declKind": "Import",
@@ -1279,174 +1466,6 @@
             "printedName": "Copyable",
             "usr": "s:s8CopyableP",
             "mangledName": "$ss8CopyableP"
-          }
-        ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "VirtualPointResult",
-        "printedName": "VirtualPointResult",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "success",
-            "printedName": "success",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(PointPubSDK.VirtualPointResult.Type) -> (Swift.String, Swift.Int) -> PointPubSDK.VirtualPointResult",
-                "children": [
-                  {
-                    "kind": "TypeFunc",
-                    "name": "Function",
-                    "printedName": "(Swift.String, Swift.Int) -> PointPubSDK.VirtualPointResult",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "VirtualPointResult",
-                        "printedName": "PointPubSDK.VirtualPointResult",
-                        "usr": "s:11PointPubSDK07VirtualA6ResultO"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Tuple",
-                        "printedName": "(Swift.String, Swift.Int)",
-                        "children": [
-                          {
-                            "kind": "TypeNominal",
-                            "name": "String",
-                            "printedName": "Swift.String",
-                            "usr": "s:SS"
-                          },
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Int",
-                            "printedName": "Swift.Int",
-                            "usr": "s:Si"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "PointPubSDK.VirtualPointResult.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "VirtualPointResult",
-                        "printedName": "PointPubSDK.VirtualPointResult",
-                        "usr": "s:11PointPubSDK07VirtualA6ResultO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:11PointPubSDK07VirtualA6ResultO7successyACSS_SitcACmF",
-            "mangledName": "$s11PointPubSDK07VirtualA6ResultO7successyACSS_SitcACmF",
-            "moduleName": "PointPubSDK",
-            "fixedbinaryorder": 0
-          },
-          {
-            "kind": "Var",
-            "name": "fail",
-            "printedName": "fail",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(PointPubSDK.VirtualPointResult.Type) -> (Swift.String, Swift.Int) -> PointPubSDK.VirtualPointResult",
-                "children": [
-                  {
-                    "kind": "TypeFunc",
-                    "name": "Function",
-                    "printedName": "(Swift.String, Swift.Int) -> PointPubSDK.VirtualPointResult",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "VirtualPointResult",
-                        "printedName": "PointPubSDK.VirtualPointResult",
-                        "usr": "s:11PointPubSDK07VirtualA6ResultO"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Tuple",
-                        "printedName": "(Swift.String, Swift.Int)",
-                        "children": [
-                          {
-                            "kind": "TypeNominal",
-                            "name": "String",
-                            "printedName": "Swift.String",
-                            "usr": "s:SS"
-                          },
-                          {
-                            "kind": "TypeNominal",
-                            "name": "Int",
-                            "printedName": "Swift.Int",
-                            "usr": "s:Si"
-                          }
-                        ]
-                      }
-                    ]
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "PointPubSDK.VirtualPointResult.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "VirtualPointResult",
-                        "printedName": "PointPubSDK.VirtualPointResult",
-                        "usr": "s:11PointPubSDK07VirtualA6ResultO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:11PointPubSDK07VirtualA6ResultO4failyACSS_SitcACmF",
-            "mangledName": "$s11PointPubSDK07VirtualA6ResultO4failyACSS_SitcACmF",
-            "moduleName": "PointPubSDK",
-            "fixedbinaryorder": 1
-          }
-        ],
-        "declKind": "Enum",
-        "usr": "s:11PointPubSDK07VirtualA6ResultO",
-        "mangledName": "$s11PointPubSDK07VirtualA6ResultO",
-        "moduleName": "PointPubSDK",
-        "declAttributes": [
-          "AccessControl",
-          "Frozen",
-          "RawDocComment"
-        ],
-        "isEnumExhaustive": true,
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
           }
         ]
       },
@@ -3750,6 +3769,13 @@
       "value": "[]"
     },
     {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/View\/PPInquiryViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7488,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/CS\/View\/PPOngoingEventsViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 540,
@@ -5124,196 +5150,217 @@
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 354,
+      "offset": 339,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 597,
+      "offset": 393,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 632,
+      "offset": 636,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 671,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 700,
+      "offset": 739,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 978,
+      "offset": 1017,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1099,
+      "offset": 1138,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1273,
+      "offset": 1312,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1329,
+      "offset": 1368,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1398,
+      "offset": 1437,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1639,
+      "offset": 1678,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2257,
+      "offset": 2296,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2708,
+      "offset": 2747,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2959,
+      "offset": 3013,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3046,
+      "offset": 3083,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3177,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 3096,
+      "offset": 3227,
       "length": 4,
       "value": "0.25"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3109,
+      "offset": 3240,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3296,
+      "offset": 3427,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3366,
+      "offset": 3497,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3739,
+      "offset": 3870,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 3789,
+      "offset": 3920,
       "length": 4,
       "value": "0.25"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3802,
+      "offset": 3933,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3906,
+      "offset": 4037,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4011,
+      "offset": 4142,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4081,
+      "offset": 4212,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4530,
+      "offset": 4472,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4706,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4760,
+      "offset": 4936,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "Array",
-      "offset": 4904,
+      "offset": 5080,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/Main\/Home\/PPMainViewController\/View\/PPMainViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13388,
+      "offset": 13570,
       "length": 4,
       "value": "true"
     },
@@ -5515,36 +5562,22 @@
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/NetworkService\/ImageLoader\/ImageLoader.swift",
-      "kind": "BooleanLiteral",
-      "offset": 283,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/NetworkService\/ImageLoader\/ImageLoader.swift",
       "kind": "Dictionary",
-      "offset": 1317,
+      "offset": 998,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/NetworkService\/ImageLoader\/ImageLoader.swift",
       "kind": "Dictionary",
-      "offset": 1361,
+      "offset": 1042,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/NetworkService\/ImageLoader\/ImageLoader.swift",
       "kind": "BooleanLiteral",
-      "offset": 1471,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/jaechunlee\/Work\/PointPub\/ios\/pointpub-ios-sdk\/PointPubSDK\/PointPubSDK\/Sources\/NetworkService\/ImageLoader\/ImageLoader.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3411,
+      "offset": 1145,
       "length": 5,
       "value": "false"
     },
