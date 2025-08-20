@@ -4,9 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.swiftlint.yml</key>
+		<data>
+		U1lOPuYiAmAWYb/4OtAW3TTxCwQ=
+		</data>
 		<key>Assets.car</key>
 		<data>
-		MWhyC5W7vCMayutLBeJLzz5XQTw=
+		Kk8tWawbbheAbnfnlH00vDvSkVY=
 		</data>
 		<key>Headers/PointPubSDK-Swift.h</key>
 		<data>
@@ -18,7 +22,7 @@
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		3qHLsMFjjHaTgzASEh30ejX2Jmc=
+		GZHhl4HCEVksWN+5HuXx4RaJThI=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -34,16 +38,23 @@
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		CSawnqxUJ/MiA+Wj8353I5GDRBo=
+		8HxiVktkHY1L2D6qXOC++m9Z8mo=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>.swiftlint.yml</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aWg++GEQ8WiqEd74dEdzMucf5sUh+lx1QVDcVQ4Jl94=
+			</data>
+		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			e60ZiQswOCKe3gGGCR1LNpoYI+iOfsKogh0FyHZ2ZZc=
+			X5P/S1Fpznjax/Eu7HcHOIJYBdoQRp9H4Z22xlGR9Rk=
 			</data>
 		</dict>
 		<key>Headers/PointPubSDK-Swift.h</key>
@@ -57,7 +68,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3aZiDQsPRXNEei1RlG/AUJzzZNzPSdDShGsQP3sjqNQ=
+			q1TQsNuUofA0LzYJoQTOUVhB08pd1t7tsdEOb+ex3uQ=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -85,7 +96,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pIoTci0fvB3dwTJZM4tg5aeJwVBazqQNB1/X43AeQgs=
+			e3X0gKj7v897+p3hYl4HdOntkroYbAtj6lnxgmqUvmI=
 			</data>
 		</dict>
 	</dict>
