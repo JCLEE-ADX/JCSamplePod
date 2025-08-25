@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		92ba+WvkDNIkLNzBq2shSjzsAkc=
+		HTsT3R0mp8iEuIBEeok3Ca8Mbnw=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		QziO7hhcRvndgKozmMpMbpP43eg=
+		C4JGl0oxj3qs5xOxY02tf78eJ6w=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		92ba+WvkDNIkLNzBq2shSjzsAkc=
+		HTsT3R0mp8iEuIBEeok3Ca8Mbnw=
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -58,7 +58,11 @@
 		</data>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		HItILNmvZmlZraoWrII7W0jjw+g=
+		GjbjXznHK3vRI4Jjs2CVTHM9E/c=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		g+clFYbIveu081hnjBRsErsAuWk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -88,7 +92,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pFLSqdDfwfGf/8IL+PBb1CGGP+IxjjudmVZFpM/xLao=
+			x0y/oIGl8pi1cjmfr8FALEXAAO+fEB1YUNm0tzN5+Jg=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -116,14 +120,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nt+lF5h/116K4tKwET4RKdP+Fx6f5NWgKi+mEJNL/i0=
+			beAeRIj2mjnvg3zZmUCQpjQjYf7akA+xeMUOe4czflQ=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pFLSqdDfwfGf/8IL+PBb1CGGP+IxjjudmVZFpM/xLao=
+			x0y/oIGl8pi1cjmfr8FALEXAAO+fEB1YUNm0tzN5+Jg=
 			</data>
 		</dict>
 		<key>Modules/PointPubSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -151,7 +155,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dVkuzYyRwzepHh6Zc7b9ljejkEly91mMUATb1g8/52I=
+			Ii+X3SUDTHPfGyTXU1O4qnVUD7mj67Rmp8KrMC70vQY=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pXr/9HZKv70Rmw5DPkw0qGx9ocg0qifd9QvyAPjFWsk=
 			</data>
 		</dict>
 	</dict>
