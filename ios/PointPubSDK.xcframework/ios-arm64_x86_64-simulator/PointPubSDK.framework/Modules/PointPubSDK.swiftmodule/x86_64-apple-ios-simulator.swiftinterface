@@ -14,6 +14,7 @@ import SystemConfiguration
 import UIKit.UIApplication
 import UIKit.UIFont
 import UIKit.UIImage
+import UIKit.UIImageView
 import UIKit
 import UIKit.UITextField
 import WebKit
