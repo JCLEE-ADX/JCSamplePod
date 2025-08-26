@@ -371,6 +371,8 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, weak) id <PointPubDelegate> _N
 /// \param completion 작업 완료 시 호출되는 클로저입니다.
 ///
 + (void)spendVirtualPointWithPoint:(NSNumber * _Nonnull)point :(void (^ _Nonnull)(NSString * _Nullable, NSNumber * _Nullable, NSError * _Nullable))completion;
+/// App Tracking Transparency(ATT) 권한이 허용되었는지 여부를 확인합니다.
++ (BOOL)isTrackingEnabled SWIFT_WARN_UNUSED_RESULT;
 /// App Tracking Transparency(ATT) 권한을 요청합니다.
 /// <ul>
 ///   <li>
@@ -384,7 +386,9 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, weak) id <PointPubDelegate> _N
 ///     앱 상태가 활성 상태가 아닐 경우, 활성화 될 때까지 대기한 후 권한 요청을 수행합니다.
 ///   </li>
 /// </ul>
-+ (void)requestTrackingPermission;
+/// \param completion 작업 완료 시 호출되는 클로저로 ATT 권한이 허용되었는지 여부를 전달합니다.
+///
++ (void)requestTrackingPermission:(void (^ _Nonnull)(BOOL))completion;
 /// PointPubSDK의 상세 로그를 콘솔에 출력하도록 활성화합니다.
 /// 이 메서드를 호출하면 SDK 내부 동작(예: 네트워크 요청/응답, 오류 등)에 대한
 /// 디버깅 로그가 콘솔에 출력됩니다.

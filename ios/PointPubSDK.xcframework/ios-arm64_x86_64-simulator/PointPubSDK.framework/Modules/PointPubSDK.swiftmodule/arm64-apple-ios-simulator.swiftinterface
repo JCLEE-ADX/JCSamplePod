@@ -41,7 +41,8 @@ import os
   public static func getVirtualPoint() async throws -> (pointName: Swift.String, point: Swift.Int)
   @objc public static func spendVirtualPoint(point: Foundation.NSNumber, _ completion: @escaping (Foundation.NSString?, Foundation.NSNumber?, Foundation.NSError?) -> Swift.Void)
   public static func spendVirtualPoint(point: Swift.Int) async throws -> (pointName: Swift.String, point: Swift.Int)
-  @objc public static func requestTrackingPermission()
+  @objc public static func isTrackingEnabled() -> Swift.Bool
+  @objc public static func requestTrackingPermission(_ completion: @escaping (Swift.Bool) -> Swift.Void)
   @objc public static func enableLogTrace()
   @objc public static func isLogTrace() -> Swift.Bool
   @objc override dynamic public init()
